@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sakpak Donald
-- 👀 I’m a fullstack web developer and a Telecommunications Field engineer
+- 👋 Hi, I’m Steve Donald
+- 👀 I’m a Fullstack web developer and a Telecommunications Field engineer
 - 🌱 I’m currently learning web3 and DevOps
 - 💞️ I'm a fast learner and i'm looking to collaborate in any project
-- 📫 How to reach me: (+237)620292295.
+- 📫 How to reach me: sakpakd@gmail.com.
 
 <!---
 SteveDonaldNK/SteveDonaldNK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
